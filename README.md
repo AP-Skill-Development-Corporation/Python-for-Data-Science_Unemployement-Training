@@ -11,7 +11,7 @@ Unemployment Training
     - Conditional Statements
     - Looping Statements
     
- - Functions          
+- Functions          
   - Creating user defined functions
   - Arguments in Functions 
   - Builtin Functions  
